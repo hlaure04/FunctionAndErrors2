@@ -9,7 +9,7 @@ Write a smart contract that implements the require(), assert() and revert() stat
 - Save the file with a .sol extension
 - Copy and paste the following code into the file
 - To compile the code, select the "Solidity Compiler" tab in the left-hand sidebar, change the "Compiler" option to "0.8.0"
-- Then click the "Compile HelloWorld.sol" button.
+- Then click the "Compile FunctionAndErrors2.sol" button.
 - To deploy the contract, choose the "FunctionAndErrors2" contract from the dropdown menu and click the "Deploy" button.
 - Interact with the contract by calling the require, revert, and assert function.
 
